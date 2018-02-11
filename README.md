@@ -1,6 +1,6 @@
 # README
 
-= Hidenori's Ruby on Rails Sample App 2018
+# Hidenori's Ruby on Rails Sample App 2018
 
 Things you may want to cover:
 
